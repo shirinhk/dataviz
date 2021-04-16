@@ -1,6 +1,8 @@
 # Data Visualization with Python
 
 
+<img src="images/canVsUsa.png">
+
 This is my first experience to create some charts and graphs by Python.
 The sourse file is Olympics winter and I collected some data from the main file that I was  handed in my College class and made some charts to compare Medals achieved in Canada and USA. I also compared some medals achieved by Men and Women. It was fun! I enjoyed it. I attach my collected data below.
 
