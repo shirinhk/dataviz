@@ -47,7 +47,7 @@ h3
 .sec
 {
 	display:flex;
-	flex-direction: row;
+	flex-direction: column;
 	text-align: center;
 	margin-top: 20px;
 }
@@ -55,7 +55,7 @@ h3
 .flex
 {
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 }
 
 .argument
